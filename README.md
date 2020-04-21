@@ -1,4 +1,4 @@
-## imageclipr
+## code2R
 [![CRAN version](http://www.r-pkg.org/badges/version/imageclipr)](https://cran.r-project.org/package=cranR)
 
 RStudio Addin: Turn Python, Matlab, etc. commands into R commands.

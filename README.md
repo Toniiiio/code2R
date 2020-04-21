@@ -31,7 +31,7 @@ RStudio (incl. rstudioapi)
 ### Adding a keyboard shortcut (Recommended)
 In RStudio go to Tools - Modify Keyboard Shortcuts...
 
-![Find Shortcuts](clipboardImage_1.png)
+![Find Shortcuts](modify_keyb_shortcuts.png)
 
-![Modify Shortcuts](clipboardImage_2.png)
+![Modify Shortcuts](modify_keyb_shortcuts2.png)
 

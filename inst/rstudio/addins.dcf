@@ -1,0 +1,4 @@
+Name: Translate Code
+Description: Translate code from python, matlab, etc. to R
+Binding: translate_code
+Interactive: false

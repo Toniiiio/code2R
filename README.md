@@ -7,6 +7,8 @@ By no means a complete code translator.
 
 ![demo of imageclipr](demo.gif)
 
+Making R welcoming for "foreign programmers"!
+
 ## Installation
 `devtools::install_github('Timag/code2R')`
 

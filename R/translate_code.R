@@ -12,7 +12,7 @@ gsub
 
 
 
-translate_code <- function() {
+translate_code <- function(txt = "") {
   context <<- rstudioapi::getSourceEditorContext()
 
   rng <<- context$selection[[1]]$range

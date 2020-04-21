@@ -12,7 +12,7 @@ By no means a complete code translator.
 
 ## Dependencies
 
-RStudio (incl. rstudioapi)
+RStudio
 
 ## Open issues / feature requests
 

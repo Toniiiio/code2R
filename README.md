@@ -3,7 +3,7 @@
 
 RStudio Addin: Turn Python, Matlab, etc. commands into R commands.
 
-By now means a complete code translator.
+By no means a complete code translator.
 
 ![demo of imageclipr](demo.gif)
 

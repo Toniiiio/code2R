@@ -37,6 +37,7 @@ translate_code <- function(txt = "") {
     r_py_dict,
     c("os.getcwd", "getwd"),
     c("replace", "gsub"),
+    c("urllib2.urlopen", "download.file"),
     c("count", "table"),
     c("%", "%%"),
     c("[[].*?[]]", "list(.*?)"),

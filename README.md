@@ -12,6 +12,8 @@ Making R welcoming for "foreign programmers"!
 ## Installation
 `devtools::install_github('Timag/code2R')`
 
+If you use `devtools::install()`, the session has to be restarted (Ctrl+Shifft+F10).
+
 ## Dependencies
 
 RStudio
